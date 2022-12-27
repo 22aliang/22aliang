@@ -1,4 +1,4 @@
-# 嗨 我莨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=93F7E9&width=435&lines=%E5%97%A8+%E6%88%91%E8%8E%A8)](https://git.io/typing-svg)
 
 <!-- 樣式 -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=22aliang&theme=vue-dark) -->
