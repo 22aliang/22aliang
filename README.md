@@ -46,5 +46,5 @@ I love coding, and I'm from Taiwan.
     <img src="https://github-profile-trophy.vercel.app/?username=22aliang" alt="GitHub Trophy" />
   </a>
 </p>
-#### 👨‍💻 My CordWar
+#### My CordWar
 <img src="https://www.codewars.com/users/22aliang/badges/large">
